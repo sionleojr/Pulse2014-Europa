@@ -21,3 +21,5 @@ i.	Master
 1.	Merge (experimento - master)
 ii.	Experimento local
 c.	Master 
+
+Jorge Humberto...
